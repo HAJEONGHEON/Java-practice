@@ -32,6 +32,7 @@ public class OkJavaGoInHomeInput {
 		moodLamp.setBright(Double.parseDouble(bright));
 		// moodlamp는 setBright method에 double 데이터를 입력받아 밝기 조절
 		moodLamp.on();
+		
 	}
 
 }
